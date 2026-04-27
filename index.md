@@ -7,12 +7,16 @@ layout: default
 In this analysis, survey data from COMP 110 students was investigated to determine if adding optional pre-lecture videos would be beneficial to learning in the course. This topic was chosen because many COMP 110 students have little to no programming experience, so having a chance to be introduced to topics before lectures could be beneficial. Survey data was analyzed through three plots: two bar charts and one point plot. 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
+# Images
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
+## Plot 1
 <img src="static/imgs/graph1.png" alt="Figure 1: Bar plot of the counts of students who rank the benefit of potential pre-lecture videos on a scale of 1-7."  width="500"/>
 
+## Plot 2 
 <img src="static/imgs/graph2.png" alt="Figure 2: Bar plot that shows relationship between level of understanding and desire fo pre-lecture videos. "  width="500"/>
 
+## Plot 3
 <img src="static/imgs/graph3.png" alt="Figure 3: Point plot showing the average response to the benefit of pre-lecture videos compared with people's programming experience. Ignoring first value."  width="500"/>
 
 ## Conclusion
